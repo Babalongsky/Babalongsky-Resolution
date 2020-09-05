@@ -2,5 +2,5 @@ babalongsky resolution
 - Build own company website
 - Consist to learn about programming
 - Enjoy to coding
-- Create merch shop
 - advance full stack developer
+- Create vlog
